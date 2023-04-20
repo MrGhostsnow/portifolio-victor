@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.525e39ad.css",
+    "main.js": "./static/js/main.264ae0af.js",
+    "static/js/787.53b2a456.chunk.js": "./static/js/787.53b2a456.chunk.js",
+    "static/media/pixabay.png": "./static/media/pixabay.ebd4e00e7ad7850e6dc4.png",
+    "static/media/weather_app.png": "./static/media/weather_app.72b871a5461ab8588049.png",
+    "static/media/pokedex.png": "./static/media/pokedex.81e60aaebc8a3809d6a4.png",
+    "static/media/LandingBank.png": "./static/media/LandingBank.be15fb2c3842cfcc027a.png",
+    "static/media/QRCode.png": "./static/media/QRCode.ee29e1605dfd708e9fea.png",
+    "static/media/TipCalculator.png": "./static/media/TipCalculator.1ef030951caf68e4e644.png",
+    "static/media/header.jpeg": "./static/media/header.fe0a3ccc8cf69c8909ac.jpeg",
+    "static/media/Advice.png": "./static/media/Advice.c5ff5808d3e64ed68158.png",
+    "static/media/TicTacToe.png": "./static/media/TicTacToe.48bb0de2656dfdc301ee.png",
+    "static/media/Calendario.png": "./static/media/Calendario.d78ff64776748ca70614.png",
+    "static/media/ToDo.png": "./static/media/ToDo.82119bc812dd1ffb9649.png",
+    "index.html": "./index.html",
+    "main.525e39ad.css.map": "./static/css/main.525e39ad.css.map",
+    "main.264ae0af.js.map": "./static/js/main.264ae0af.js.map",
+    "787.53b2a456.chunk.js.map": "./static/js/787.53b2a456.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.525e39ad.css",
+    "static/js/main.264ae0af.js"
+  ]
+}
